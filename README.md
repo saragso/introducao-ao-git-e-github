@@ -7,4 +7,7 @@ Há vários benefícios em utilizar o Git e o GitHub, sendo os principais deles:
 * Armazenamento em nuvem 
 * Trabalho em equipe
 * Melhorar códigos
-* Rceonhecimento
+* Reconhecimento
+
+#### Sobre o projeto
+Esse projeto foi feito com o intuito de reforçar meu conhecimento em Git com um desafio de projeto prático, onde executei todos os passos para a criação, atualização e sincronização de um repositório no GitHub. 
